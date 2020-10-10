@@ -1,2 +1,2 @@
-This is 42nd screencast, called "42. React Conditional Render Part 2"<br />
+This is 41st screencast, called "41. React Conditional Render Part 2"<br />
 https://scrimba.com/course/glearnreact
